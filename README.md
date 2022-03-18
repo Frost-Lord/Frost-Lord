@@ -31,11 +31,11 @@ Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freela
   <img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
-- 🔭 I’m currently working on:
-  ```js
-  https://watcherbot.xyz
-  ```
-- 🌱 I’m currently learning:
+## 🔭 I’m currently working on:
+```js
+https://watcherbot.xyz
+```
+## 🌱 I’m currently learning:
 ```js
 Ruby, Rust
 ```
