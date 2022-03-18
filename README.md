@@ -27,9 +27,18 @@ Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freela
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773"><img src="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773" data-canonical-src="https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;logo=Windows" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/35b4fc29d92661064550aa516f59797626162e42194612bd8b8d463363e3e7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f"><img src="https://camo.githubusercontent.com/35b4fc29d92661064550aa516f59797626162e42194612bd8b8d463363e3e7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f" data-canonical-src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&amp;logo=Arduino" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fd6bc72765cf2f4d40f3e646b2f88b3e413830b1d2b05669bc59285b69443d50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264"><img src="https://camo.githubusercontent.com/fd6bc72765cf2f4d40f3e646b2f88b3e413830b1d2b05669bc59285b69443d50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264" data-canonical-src="https://img.shields.io/badge/Discord-black?style=for-the-badge&amp;logo=Discord" style="max-width: 100%;">
-
+<img alt="Linux" src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
+  <img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
+- 🔭 I’m currently working on:
+  ```js
+  https://watcherbot.xyz
+  ```
+- 🌱 I’m currently learning:
+```js
+Ruby, Rust
+```
 
 <!--
 **DaKing01/DaKing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
