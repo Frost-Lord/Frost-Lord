@@ -12,25 +12,6 @@ Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freela
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  
-  <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
-  
-  <img src="https://camo.githubusercontent.com/d98e048a63e101898ac25f646b0466303daaa1103a318723d75c50d01a004ca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  
-  <img src="https://pbs.twimg.com/profile_images/885496838563823616/041cYVio_400x400.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/abafba218fbed7043af4edc6206b60a6b5ee06c95779e883256907673927dce7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465"><img src="https://camo.githubusercontent.com/abafba218fbed7043af4edc6206b60a6b5ee06c95779e883256907673927dce7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465" data-canonical-src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&amp;logo=node" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9baa2e3ef7f2b613a786471a255cc9a8eaa4b58b87b97c2c3d9615b14ca02593/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/9baa2e3ef7f2b613a786471a255cc9a8eaa4b58b87b97c2c3d9615b14ca02593/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35" data-canonical-src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=HTML5" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4ce8ce681df2ab99362296f8af4cb86076666abc87eeae21401e2d2335953e18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/4ce8ce681df2ab99362296f8af4cb86076666abc87eeae21401e2d2335953e18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d313537324236" data-canonical-src="https://img.shields.io/badge/CSS-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" style="max-width: 100%;"></a>
@@ -46,7 +27,10 @@ Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freela
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773"><img src="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773" data-canonical-src="https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;logo=Windows" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/35b4fc29d92661064550aa516f59797626162e42194612bd8b8d463363e3e7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f"><img src="https://camo.githubusercontent.com/35b4fc29d92661064550aa516f59797626162e42194612bd8b8d463363e3e7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f" data-canonical-src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&amp;logo=Arduino" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fd6bc72765cf2f4d40f3e646b2f88b3e413830b1d2b05669bc59285b69443d50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264"><img src="https://camo.githubusercontent.com/fd6bc72765cf2f4d40f3e646b2f88b3e413830b1d2b05669bc59285b69443d50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264" data-canonical-src="https://img.shields.io/badge/Discord-black?style=for-the-badge&amp;logo=Discord" style="max-width: 100%;">
-  
+
+</p>
+
+
 <!--
 **DaKing01/DaKing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
