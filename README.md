@@ -18,6 +18,13 @@ Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freela
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://camo.githubusercontent.com/d98e048a63e101898ac25f646b0466303daaa1103a318723d75c50d01a004ca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
   <img src="https://pbs.twimg.com/profile_images/885496838563823616/041cYVio_400x400.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
