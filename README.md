@@ -1,4 +1,3 @@
-<p align="center"><img src="https://elements-cover-images-0.imgix.net/92614c47-7239-4a50-a207-8f20a2f93e52?auto=compress%2Cformat&fit=max&w=1170&s=b0b8e44e1ca4c434625c4f88f7f42a42" alt="image" height="600" style="vertical-align:top; margin:4px"></p>
 Hi, I'm DaKing01, a passionate self-taught full stack web developer and a freelance bot developer from Australia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
