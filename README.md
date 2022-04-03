@@ -1,4 +1,4 @@
-Welcome!,
+## Welcome!,
 ```
 I'm Glitched, a passionate self-taught full stack backend developer and a freelancer from Australia.
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
