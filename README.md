@@ -2,12 +2,6 @@ Hi, I'm Glitched, a passionate self-taught full stack web developer and a freela
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
-💼 Any freelance work? DM me via Discord: Glitched#2804 ID: 758974678357377064
-
-💬 Ask me about anything, i am happy to help (:
-
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/abafba218fbed7043af4edc6206b60a6b5ee06c95779e883256907673927dce7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465"><img src="https://camo.githubusercontent.com/abafba218fbed7043af4edc6206b60a6b5ee06c95779e883256907673927dce7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465" data-canonical-src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&amp;logo=node" style="max-width: 100%;"></a>
@@ -38,8 +32,14 @@ https://libertas.gg
 ```js
 Ruby, Rust
 ```
+💬 Ask me about anything, i am happy to help (:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaKing01)](https://git.io/streak-stats)
 [![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaKing01)](https://git.io/streak-stats)
+
+
+
+
 <!--
 **DaKing01/DaKing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
