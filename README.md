@@ -1,13 +1,12 @@
 Hi, I'm Glitched, a passionate self-taught full stack web developer and a freelance bot developer from Australia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 💼 Any freelance work? DM me via Discord: Glitched#2804 ID: 758974678357377064
 
 💬 Ask me about anything, i am happy to help (:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaKing01)](https://git.io/streak-stats)
-
-[![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaKing01)](https://git.io/streak-stats)
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -39,7 +38,8 @@ https://libertas.gg
 ```js
 Ruby, Rust
 ```
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaKing01)](https://git.io/streak-stats)
+[![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaKing01)](https://git.io/streak-stats)
 <!--
 **DaKing01/DaKing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
