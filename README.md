@@ -50,7 +50,6 @@ Ruby, Rust
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaKing01)](https://git.io/streak-stats)
 [![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaKing01)](https://git.io/streak-stats)
-[![DaKing01's GitHub stats](https://raw.githubusercontent.com/DaKing01/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
