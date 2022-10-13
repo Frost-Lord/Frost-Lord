@@ -40,7 +40,7 @@ https://libertas.gg
 ```js
 Ruby, Rust
 ```
-💼 Any freelance work? DM me via Discord: Glitched#2804 ID: 758974678357377064
+💼 Any freelance work? DM me via Discord: Frost Lord#2804 ID: 758974678357377064
 
 💬 Ask me about anything, i am happy to help (:
 
