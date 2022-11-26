@@ -33,8 +33,7 @@ community and I love how collaboration and knowledge sharing happened through op
 
 ## 🔭 I’m currently working on:
 ```js
-https://watcherbot.xyz
-https://libertas.gg
+https://watcherbot.net
 ```
 ## 🌱 I’m currently learning:
 ```js
