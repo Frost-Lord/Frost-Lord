@@ -37,18 +37,18 @@ https://watcherbot.net
 ```
 ## 🌱 I’m currently learning:
 ```js
-Ruby, Rust
+Swift, Rust
 ```
 💼 Any freelance work? DM me via Discord: Frost Lord#2804 ID: 758974678357377064
 
 💬 Ask me about anything, i am happy to help (:
 
 
-<p dir="auto"><img src="https://raw.githubusercontent.com/DaKing01/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/DaKing01/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" style="max-width: 100%;"></p>
+<p dir="auto"><img src="https://raw.githubusercontent.com/Frost-Lord/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/Frost-Lord/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" style="max-width: 100%;"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaKing01)](https://git.io/streak-stats)
-[![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaKing01)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frost-Lord)](https://git.io/streak-stats)
+[![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord)](https://git.io/streak-stats)
 
 
 <!--
