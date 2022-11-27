@@ -7,7 +7,7 @@ I take great care in the experience, architecture, and code quality of the thing
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source
 community and I love how collaboration and knowledge sharing happened through open-source.
 ```
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nextjs,react,redis,tailwind,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nextjs,react,redis,tailwind,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&theme=light)](https://github.com/Frost-Lord)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
