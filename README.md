@@ -2,10 +2,9 @@
 ```
 I'm Frost Lord, a passionate self-taught full stack backend developer and a freelancer from Australia.
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-I take great care in the experience, architecture, and code quality of the things I build.
+I take great care in the experience, architecture and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source
-community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source areas.
 ```
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
