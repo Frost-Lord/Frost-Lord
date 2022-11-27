@@ -10,7 +10,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 ## 🧰 Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&perline=6" />
 </p>
 
 
