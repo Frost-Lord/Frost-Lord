@@ -4,7 +4,8 @@ I'm Frost Lord, a passionate self-taught full stack backend developer and a free
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture and code quality of the things I build.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source areas.
+I learned a lot from the open-source community and I love how collaboration and knowledge 
+sharing happened through open-source areas.
 ```
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
@@ -32,19 +33,3 @@ Swift, Rust
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frost-Lord)](https://git.io/streak-stats)
 [![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord)](https://git.io/streak-stats)
-
-
-<!--
-**DaKing01/DaKing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
