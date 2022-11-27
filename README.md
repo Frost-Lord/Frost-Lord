@@ -12,10 +12,8 @@ community and I love how collaboration and knowledge sharing happened through op
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
 ## 🧰 Languages and Tools:
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nextjs,react,redis,tailwind,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&theme=light)]
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nextjs,react,redis,tailwind,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&theme=light)](https://github.com/Frost-Lord)
+
 
 ## 🔭 I’m currently working on:
 ```js
