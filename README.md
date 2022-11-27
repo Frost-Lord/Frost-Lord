@@ -7,6 +7,7 @@ I take great care in the experience, architecture, and code quality of the thing
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source
 community and I love how collaboration and knowledge sharing happened through open-source.
 ```
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
 ## 🧰 Languages and Tools:
