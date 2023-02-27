@@ -25,7 +25,7 @@ Rust, Haskell
 ```
 💼 Any freelance work? DM me via Discord: Frost Lord#2804 ID: 758974678357377064
 
-💬 Ask me about anything, i am happy to help (:
+💬 Ask me about anything, I will be happy to help (:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frost-Lord)](https://git.io/streak-stats)
 [![Frost Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord)](https://git.io/streak-stats)
