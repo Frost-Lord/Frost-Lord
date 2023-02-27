@@ -11,7 +11,7 @@ sharing happened through open-source areas.
 
 ## 🧰 Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,js&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,androidstudio,angular,cassandra,bots,elixir,gohaskell,kubernetes,linux,nuxtjs,php,postgres,postman,prisma,regex,rust,threejs,vue,workers,js&perline=6" />
 </p>
 
 
