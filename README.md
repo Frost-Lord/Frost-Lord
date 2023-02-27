@@ -7,8 +7,8 @@ I take great care in the experience, architecture and code quality of the things
 I learned a lot from the open-source community and I love how collaboration and knowledge 
 sharing happened through open-source areas.
 ```
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
-
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
+-->
 ## 🧰 Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,androidstudio,angular,cassandra,bots,elixir,go,haskell,kubernetes,linux,nuxtjs,php,postgres,postman,prisma,regex,rust,threejs,vue,workers,js&perline=6" />
@@ -21,7 +21,7 @@ https://frostproxy.com
 ```
 ## 🌱 I’m currently learning:
 ```js
-Swift, Rust
+Rust, Haskell
 ```
 💼 Any freelance work? DM me via Discord: Frost Lord#2804 ID: 758974678357377064
 
