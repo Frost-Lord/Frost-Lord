@@ -4,14 +4,13 @@ I'm Frost Lord, a passionate self-taught full stack backend developer and a free
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture and code quality of the things I build.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge 
-sharing happened through open-source areas.
+I learned a lot from the open-source community and from some software engineering friends.
 ```
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 -->
 ## 🧰 Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,vercel,tensorflow,ts,workers,vue,prisma,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,deno,cloudflare,bash,arduino,mongodb,nginx,nodejs,androidstudio,angular,cassandra,bots,elixir,go,haskell,kubernetes,linux,nuxtjs,php,postgres,postman,prisma,regex,rust,threejs,vue,workers,sass,powershell,haxe,grafana,c,aws,electron,js&perline=16" />
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,tensorflow,ts,workers,vue,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,cloudflare,bash,arduino,mongodb,nginx,nodejs,androidstudio,cassandra,bots,go,haskell,kubernetes,nuxtjs,php,postman,regex,rust,threejs,sass,powershell,electron,js&perline=16" />
 </p>
 
 
