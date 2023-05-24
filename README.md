@@ -27,4 +27,4 @@ Rust, Haskell
 💬 Ask me about anything, I will be happy to help (:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frost-Lord)](https://git.io/streak-stats)
-[![Frost Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord)](https://git.io/streak-stats)
+[![Frost Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://git.io/streak-stats)
