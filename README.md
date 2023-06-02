@@ -1,3 +1,7 @@
+<head>
+    <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+</head>
+
 ## Welcome!,
 ```
 I'm Frost Lord, a passionate self-taught full stack backend developer and a freelancer from Australia.
@@ -36,7 +40,7 @@ Rust, Haskell
   <br>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/LogShield">
-      <img align="left" src="https://camo.githubusercontent.com/110d6cdb2c955c37cef8d42b2e2cfec6b699e4daa8c36ad16ec4797091b44d7a/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d62726179646f6e77616e67267265706f3d4c656574636f64652d536f6c7574696f6e73267468656d653d676f7468616d2673686f775f6f776e65723d74727565" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Frost-Lord&amp;repo=LogShield&amp;theme=gotham&amp;show_owner=true" style="max-width: 100%;">
+        <div class="repo-card" data-repo="Frost-Lord/LogShield" style="max-width: 100%;"></div>
     </a>
     <a href="https://github.com/Frost-Lord/NeuralNova">
       <img align="center" src="https://camo.githubusercontent.com/a7e27735d30fa2609dad4ab8e75fa64011611de847b7afaed4e2afc42a869f87/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d62726179646f6e77616e67267265706f3d436f6d70657469746976652d50726f6772616d6d696e672d536f6c7574696f6e73267468656d653d676f7468616d2673686f775f6f776e65723d74727565" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Frost-Lord&amp;repo=NeuralNova&amp;theme=gotham&amp;show_owner=true" style="max-width: 100%;">
