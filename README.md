@@ -40,6 +40,8 @@ Rust, Haskell
   <br>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/LogShield">
+        <div class="github-card" data-github="Frost-Lord/LogShield" data-width="400" data-height="297" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
         <div class="repo-card" data-repo="Frost-Lord/LogShield" style="max-width: 100%;"></div>
     </a>
     <a href="https://github.com/Frost-Lord/NeuralNova">
