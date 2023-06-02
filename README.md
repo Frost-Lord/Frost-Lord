@@ -61,12 +61,5 @@ I learned a lot from the open-source community and from some software engineerin
 </a>
 
 <a href="https://github.com/Frost-Lord/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frost-Lord&amp;langs_count=8&amp;tex&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21&amp;layout=compact" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frost-Lord&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark" style="max-width: 100%;">
 </a>
-
-<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frost-Lord&layout=compact&theme=dark)](https://github.com/Frost-Lord)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frost-Lord&theme=dark)](https://git.io/streak-stats)
-[![Frost Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost-Lord&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark)](https://git.io/streak-stats)
