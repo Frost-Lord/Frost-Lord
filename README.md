@@ -46,9 +46,9 @@ Rust, Haskell;
       <img align="left" src="https://camo.githubusercontent.com/110d6cdb2c955c37cef8d42b2e2cfec6b699e4daa8c36ad16ec4797091b44d7a/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d62726179646f6e77616e67267265706f3d4c656574636f64652d536f6c7574696f6e73267468656d653d676f7468616d2673686f775f6f776e65723d74727565" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Frost-Lord&amp;repo=LogShield&amp;theme=gotham&amp;show_owner=true" style="max-width: 100%;">
     </a>
     <a href="https://github.com/Frost-Lord/NeuralNova">
-<div class="github-card" data-github="Frost-Lord/LogShield" data-width="400" data-height="297" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+         <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=LogShield&bg_color=ffffff" height="148" width="399"/>
     </a>
+
 </details>
 
 <h2 dir="auto"><a id="user-content-competitive-programming" class="anchor" aria-hidden="true" href="#competitive-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Machine Learning:</h2>
