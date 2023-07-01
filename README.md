@@ -27,6 +27,9 @@ I learned a lot from the open-source community and from some software engineerin
     <a href="https://github.com/Frost-Lord/NeuralNova">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=NeuralNova&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
+    <a href="https://github.com/Frost-Lord/NeuralGraph">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=NeuralGraph&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    </a>
   </p>
 </details><br>
 
