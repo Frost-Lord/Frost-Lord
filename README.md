@@ -42,19 +42,16 @@ I learned a lot from the open-source community and from some software engineerin
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=BlazeDB&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
   </p>
-  <br clear="left"/>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/Shard-Manager-Database">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Shard-Manager-Database&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
   </p>
-  <br clear="left"/>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/CacheHive">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=CacheHive&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
   </p>
-  <br clear="left"/>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/Docker-code-environment">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Docker-code-environment&bg_color=0c1014&theme=dark" style="max-width: 100%;">
