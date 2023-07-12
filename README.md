@@ -37,29 +37,26 @@ I learned a lot from the open-source community and from some software engineerin
 <details open="">
   <summary> Collection of personal and collaborative full-stack projects. </summary>
   <br>
-  <p dir="auto">
+  <div dir="auto">
     <a href="https://github.com/Frost-Lord/BlazeDB">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=BlazeDB&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=BlazeDB&bg_color=0c1014&theme=dark" style="max-width: 50%;">
     </a>
-  </p>
-  <p dir="auto">
     <a href="https://github.com/Frost-Lord/Shard-Manager-Database">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Shard-Manager-Database&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Shard-Manager-Database&bg_color=0c1014&theme=dark" style="max-width: 50%;">
     </a>
-  </p>
-  <p dir="auto">
+  </div>
+  <br clear="left"/>
+  <div dir="auto">
     <a href="https://github.com/Frost-Lord/CacheHive">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=CacheHive&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=CacheHive&bg_color=0c1014&theme=dark" style="max-width: 50%;">
     </a>
-  </p>
-  <p dir="auto">
     <a href="https://github.com/Frost-Lord/Docker-code-environment">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Docker-code-environment&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Docker-code-environment&bg_color=0c1014&theme=dark" style="max-width: 50%;">
     </a>
-  </p>
+  </div>
 </details>
-
 <br clear="left"/>
+
 
 <h2 dir="auto"><a id="user-content-hell-projects" class="anchor" aria-hidden="true" href="#full-stack-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📫 I need a life Projects:</h2>
 
