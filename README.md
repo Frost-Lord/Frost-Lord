@@ -77,6 +77,11 @@ I learned a lot from the open-source community and from some software engineerin
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Assembly-http-server&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
   </p>
+  <p dir="auto">
+    <a href="https://github.com/Frost-Lord/BlazeDB">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Haskell&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    </a>
+  </p>
 </details>
 <br>
 <br clear="left"/>
