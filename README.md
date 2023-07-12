@@ -9,7 +9,7 @@ I learned a lot from the open-source community and from some software engineerin
 ```
 
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Databases:
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,nextjs,react,redis,tailwind,py,pug,raspberrypi,swift,tensorflow,ts,workers,vue,postgres,ps,mysql,html,css,grafana,express,dotnet,docker,discord,cloudflare,bash,arduino,mongodb,nginx,nodejs,androidstudio,cassandra,bots,go,haskell,kubernetes,nuxtjs,php,postman,regex,rust,threejs,sass,powershell,electron,js,assembly&perline=16" />
