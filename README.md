@@ -67,6 +67,9 @@ I learned a lot from the open-source community and from some software engineerin
     <a href="https://github.com/Frost-Lord/Assembly-http-server">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Assembly-http-server&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
+    <a href="https://github.com/Frost-Lord/HaskMate">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=HaskMate&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    </a>
     <a href="https://github.com/Frost-Lord/Haskell">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Haskell&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
