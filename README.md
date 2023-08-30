@@ -64,6 +64,9 @@ I learned a lot from the open-source community and from some software engineerin
   <summary> Collection of personal projects that drive me insane debugging. </summary>
   <br>
   <div dir="auto">
+    <a href="https://github.com/Frost-Lord/ArcticArch">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=ArcticArch&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    </a>
     <a href="https://github.com/Frost-Lord/Assembly-http-server">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=Assembly-http-server&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
