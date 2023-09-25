@@ -2,10 +2,10 @@
 
 ```
 I'm Frost Lord, a passionate self-taught full stack backend developer and a freelancer from Australia.
-my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture and code quality of the things I build.
 
-I learned a lot from the open-source community and from some software engineering friends.
+I learned much from the open-source community and some software engineering friends.
 ```
 
 ## Languages and Databases:
@@ -17,7 +17,7 @@ I learned a lot from the open-source community and from some software engineerin
 <h2 dir="auto"><a id="user-content-machine-learning" class="anchor" aria-hidden="true" href="#machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Machine Learning:</h2>
 
 <details open="">
-  <summary>My interest in software engineering began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like Leetcode.</summary>
+  <summary>My interest in software engineering began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem-solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like Leetcode.</summary>
   <br>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/LogShield">
