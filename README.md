@@ -1,7 +1,7 @@
 ## Welcome!,
 
 ```
-I'm Frost Lord, a passionate self-taught full stack backend developer and a freelancer from Australia.
+I'm Frost Lord, a passionate Software Engineer backend developer and a freelancer from Australia.
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture and code quality of the things I build.
 
