@@ -5,7 +5,7 @@ I'm Frost Lord, a passionate Software Engineer backend developer and a freelance
 my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture and code quality of the things I build.
 
-I learned much from the open-source community and some software engineering friends.
+I learned much from the open-source community and software engineering friends.
 ```
 
 ## Languages and Databases:
