@@ -53,8 +53,8 @@ I learned much from the open-source community and software engineering friends.
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/Frost-Lord/ArcticArch">ArcticArch</a></td>
-                        <td><img alt="Stars" src="https://img.shields.io/github/stars/Frost-Lord/ArcticArch?style=flat-square&labelColor=black" /></td>
+                        <td><a href="https://github.com/Frost-Lord/FrostLink">FrostLink</a></td>
+                        <td><img alt="Stars" src="https://img.shields.io/github/stars/Frost-Lord/FrostLink?style=flat-square&labelColor=black" /></td>
                         <td><img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust" alt="Rust"></td>
                     </tr>
                     <tr>
