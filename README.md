@@ -24,7 +24,7 @@ I learned much from the open-source community and software engineering friends.
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=LogShield&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
     <a href="https://github.com/Frost-Lord/JobVector">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=JobVector&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=CodePulse&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
     <a href="https://github.com/Frost-Lord/NeuralGraph">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=NeuralGraph&bg_color=0c1014&theme=dark" style="max-width: 100%;">
