@@ -23,14 +23,14 @@ I learned much from the open-source community and software engineering friends.
     <a href="https://github.com/Frost-Lord/LogShield">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=LogShield&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
-    <a href="https://github.com/Frost-Lord/JobVector">
+    <a href="https://github.com/Frost-Lord/CodePulse">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=CodePulse&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
-    <a href="https://github.com/Frost-Lord/NeuralGraph">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=NeuralGraph&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    <a href="https://github.com/Frost-Lord/HaskMate">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=HaskMate&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
-    <a href="https://github.com/Frost-Lord/DocUMentor">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=DocUMentor&bg_color=0c1014&theme=dark" style="max-width: 100%;">
+    <a href="https://github.com/Frost-Lord/FrostLink">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Frost-Lord&repo=FrostLink&bg_color=0c1014&theme=dark" style="max-width: 100%;">
     </a>
   </p>
 </details><br clear="left"/><be>
