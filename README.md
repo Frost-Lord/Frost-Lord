@@ -138,5 +138,5 @@ I learned much from the open-source community and software engineering friends.
 </a>
 
 <a href="https://github.com/Frost-Lord/">
-  <img align="center" src="http://23.27.6.132:9000/?username=Frost-Lord&count_private=true&show_icons=true&exclude_repo=IPT-Games-Website&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014" style="max-width: 100%;">
+  <img align="center" src="http://23.27.6.132:9000/?username=Frost-Lord&count_private=true&show_icons=true&exclude_repo=IPT-Games-Website,AI-Games,Github-management-Bot,StatusPlus,Watcher-V14&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014" style="max-width: 100%;">
 </a>
