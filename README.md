@@ -1,5 +1,3 @@
-## Welcome!,
-
 ```assembly 
 .Frost:00405C4A                             ; =============== S U B R O U T I N E ========================
 .Frost:00405C4A
