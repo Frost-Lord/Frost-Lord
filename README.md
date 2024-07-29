@@ -1,23 +1,27 @@
 ## Welcome!,
 
+```assembly 
+.Frost:00405C4A                             ; =============== S U B R O U T I N E ========================
+.Frost:00405C4A
+.Frost:00405C4A                             ; Attributes: bp-based frame
+.Frost:00405C4A
+.Frost:00405C4A                                             public WhoAmI
+.Frost:00405C4A                                 WhoAmI proc near
+.Frost:00405C4A 000 55                                      push    rbp
+.Frost:00405C4B 008 48 89 E5                                mov     rbp, rsp
+.Frost:00405C4E 008 48 81 EC 00 00 00 00                    sub     rsp, 0
+.Frost:00405C55 008 48 8D 05 D7 C5 FF FF                    lea     rax, about ; 'ewenmacculloch.com'
+.Frost:00405C5C 008 C9                                      leave
+.Frost:00405C5D 000 C3                                      retn
+.Frost:00405C5D                                 WhoAmI endp
+.Frost:00405C5D
+.Frost:00405C5D                             ; ------------------------------------------------------------
 ```
-I'm Ewen, a passionate Software Engineer backend developer and a freelancer from Australia.
-my passion for software lies in dreaming up ideas and making them come true with elegant interfaces.
-I take great care in the experience, architecture and code quality of the things I build.
-
-I learned much from the open-source community and software engineering friends.
-```
-
-## Languages and Databases:
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=haskell,c,rust,go,js,ts,java,dotnet,kotlin,py,php,sass,powershell,swift,html,css,bash,arduino,tensorflow,tailwind,nextjs,react,express,vue,nuxtjs,pug,electron,redis,postgres,mysql,mongodb,cassandra,docker,nginx,kubernetes,postman,regex,threejs,androidstudio&perline=16" />
-</p>
-
-<h2 dir="auto"><a id="user-content-machine-learning" class="anchor" aria-hidden="true" href="#machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🖥️ Open-Source Projects:</h2>
+<h2 dir="auto"><a id="user-content-machine-learning" class="anchor" aria-hidden="true" href="#machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🖥️ Top Open-Source Projects:</h2>
 
 <details open="">
-  <summary>My interest in software engineering began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem-solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like Leetcode.</summary>
+  <summary>My interest in software engineering began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem-solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like Leetcode. Now, I specialize in backend development, focusing on creating robust and scalable systems.
+  </summary>
   <br>
   <p dir="auto">
     <a href="https://github.com/Frost-Lord/LogShield">
